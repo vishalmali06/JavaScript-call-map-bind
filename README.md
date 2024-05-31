@@ -38,7 +38,7 @@
      printMyName();
      ```
 
-     ### Using call
+### Using call
 
      The `call` method calls a function with a given `this` value and arguments provided individually.
      
@@ -47,7 +47,7 @@
      // Output: Vishal Mali Tasgaon MH
      ```
 
-     ### Function Borrowing with call
+### Function Borrowing with call
 
      You can borrow the `printFullName` function from one object and use it with another object.
      
